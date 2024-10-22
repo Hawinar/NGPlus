@@ -60,7 +60,6 @@ void FirstNegative()
 }
 
 void InArray() {
-	// Если бы можно было использовать vector, то я спрашивал бы у пользователя значение n
 	const int n = 6;
 	float mult = 1;
 
